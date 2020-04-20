@@ -1,0 +1,17 @@
+.home-wrapper {
+  width: 100%;
+}
+.home-wrapper .ant-btn-primary:first-child {
+  margin-right: 20px;
+}
+.button-group {
+  width: 274px;
+  margin: 100px auto 40px;
+  border-radius: 10px;
+  border: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+}
+.echarts {
+  padding: 0 60px;
+}
